@@ -9,7 +9,7 @@ Project is now live at https://mashup-maker.streamlit.app
 1. Clone the repository:
 
 ```
-git clone https://github.com/ThatSpaceCowboy/Mashup-Maker.git
+git clone https://github.com/youdayyy/Mashup-Maker.git
 ```
 
 2. Navigate to the project directory:
@@ -40,11 +40,11 @@ streamlit run app.py
 
 ## Example
 
-![image](https://github.com/ThatSpaceCowboy/Mashup-Maker/assets/41112158/f8d03ca9-395d-4138-8e66-062c4c63348d)
+![image](https://github.com/youdayyy/Mashup-Maker/assets/41112158/f8d03ca9-395d-4138-8e66-062c4c63348d)
 
 ### Result :
 
-https://github.com/ThatSpaceCowboy/Mashup-Maker/assets/41112158/35f62805-f822-4852-a7b7-44c0baa8be59
+https://github.com/youdayyy/Mashup-Maker/assets/41112158/35f62805-f822-4852-a7b7-44c0baa8be59
 
 ## License
 
